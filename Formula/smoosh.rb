@@ -1,8 +1,8 @@
 class Smoosh < Formula
   desc "Pure bash CLI that aggregates repository files for RAG ingestion"
   homepage "https://github.com/K1-R1/smoosh"
-  url "https://github.com/K1-R1/smoosh/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "893cea99ab3ae80181baa13108635c0b90ecc84f7ba316ef5fc8b0e00443e7aa"
+  url "https://github.com/K1-R1/smoosh/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "6837c720a6e4a3a34503d93eb162ba1104f60d7ca5ef73fb2308b9a4096033f8"
   license "MIT"
 
   def install
