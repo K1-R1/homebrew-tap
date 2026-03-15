@@ -5,7 +5,8 @@ Homebrew formulae for [smoosh](https://github.com/K1-R1/smoosh).
 ## Install
 
 ```bash
-brew install K1-R1/tap/smoosh
+brew tap K1-R1/tap
+brew install smoosh
 
 Available formulae
 
@@ -20,4 +21,6 @@ Troubleshooting
 brew update
 brew doctor
 
-If the install fails, try brew untap K1-R1/tap && brew tap K1-R1/tap to refresh.
+If the install fails, refresh the tap:
+
+brew untap K1-R1/tap && brew tap K1-R1/tap
